@@ -1,0 +1,1 @@
+https://github.com/bytedance/piano_transcription/blob/master/paper/High-resolution%20Piano%20Transcription%20with%20Pedals%20by%20Regressing%20Precise%20Onsets%20and%20Offsets%20Times_v0.2.pdf
